@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } // else {
         //     // If no choice was selected, prompt the user to make a selection.
         //     feedbackElement.textContent = "Please select an answer.";
-        //     feedbackElement.style.color = "#ffc107"; // Orange for warning
+        //     feedbackElement.style.color = "#ffc107";
         // }
         feedbackElement.style.display = 'block';
     }
